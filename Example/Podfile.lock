@@ -1,0 +1,16 @@
+PODS:
+  - FlutterBuilder (0.1.0)
+
+DEPENDENCIES:
+  - FlutterBuilder (from `../`)
+
+EXTERNAL SOURCES:
+  FlutterBuilder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlutterBuilder: e2c6ad7a396165e9bf328c4aea59070b73179b5c
+
+PODFILE CHECKSUM: d7111a91c76341d8195cf2270d02ac93d33aa391
+
+COCOAPODS: 1.9.3
